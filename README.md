@@ -18,7 +18,7 @@ Welcome to **CryptoBuddy**, your friendly crypto advisor! This simple chatbot he
 1. Make sure you have Python 3 installed.
 2. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/crypto-buddy.git
+   git clone (https://github.com/kgolomoleba/crypto-buddy-chatbot.git)
    cd crypto-buddy
 Run the chatbot script:
 
